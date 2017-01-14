@@ -1,0 +1,13 @@
+Setup:
+
+1.) Execute Install/SQL/cms.sql
+2.) @adminpanel created account? remove "register.php" in /admin !!!
+3.) Remove /install folder
+
+
+
+Default Logins:
+
+Username:		Password:	What:
+
+Administrator		ascent		Admin Panel

@@ -1,0 +1,5 @@
+- add @admin back to home
+- add @admin news add/edit/remove etc.
+- add @admin link to tc_auth
+
+- add login panel players
