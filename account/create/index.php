@@ -40,7 +40,7 @@ Edited by: Brian8544
 				</div>
 				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="javascript:history.back()" class="smoothScroll">Home</a></li>
+						<li><a href="/index.php" class="smoothScroll">Home</a></li>
 						<li><a href="#register" class="smoothScroll">Create Account</a></li>
 					</ul>
 				</div>

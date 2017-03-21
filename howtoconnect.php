@@ -5,8 +5,7 @@
 
 		<title>Nexus-WoW</title>
 <!--
-Template Used: Hyperspace @ HTML5up.net - ajlkn
-Edited by: Brian8544
+GitHub: http://github.com/brian8544/WOW_CMS
 -->
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -40,11 +39,10 @@ Edited by: Brian8544
 				</div>
 				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="javascript:history.back()" class="smoothScroll">Home</a></li>
+						<li><a href="/index.php" class="smoothScroll">Home</a></li>
 						<li><a href="account/create/" class="smoothScroll">Create Account</a></li>
 						<li><a href="howtoconnect.php" class="smoothScroll">How To Connect</a></li>
 						<li><a href="forum/" class="smoothScroll">Forum</a></li>
-						<li><a href="#about" class="smoothScroll">About</a></li>
 						<li><a href="armory/" class="smoothScroll">Armory (Soon!)</a></li>
 						<li><a href="account/login/" class="smoothScroll">Login</a></li>
 					</ul>
@@ -66,7 +64,7 @@ Edited by: Brian8544
 			</div>
 		</div>
 
-		<div id="register">
+		<div id="register"> 				<!-- Issue #2 - Insecure DB connection --->
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-sm-6 wow fadeInLeft" data-wow-delay="0.9s">
@@ -86,24 +84,23 @@ Edited by: Brian8544
 						<br>
 						<br>
 
-		<footer>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-8 col-sm-7">
-						<p>Copyright &copy; 2016-2017 <a rel="nofollow" href="http://nexus-wow.eu" target="_parent">Nexus Entertainment LLC.</a></p>
-					</div>
-					<div class="col-md-4 col-sm-5">
-						<ul class="social-icon">
-							<li><a href="#" class="fa fa-facebook"></a></li>
-							<li><a href="#" class="fa fa-twitter"></a></li>
-							<li><a href="#" class="fa fa-github"></a></li>
-							<li><a href="admin/" class="fa fa-user"></a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</footer>
-
+						<footer>
+							<div class="container">
+								<div class="row">
+									<div class="col-md-8 col-sm-7">
+										<p>Copyright &copy; 2016-2017 <a rel="nofollow" href="http://project-reborn.com/" target="_parent">Nexus Entertainment LLC.</a></p>
+									</div>
+									<div class="col-md-4 col-sm-5">
+										<ul class="social-icon">
+											<li><a href="https://www.facebook.com/brian.oost" class="fa fa-facebook"></a></li>
+											<li><a href="https://www.twitter.com/brian8544" class="fa fa-twitter"></a></li>
+											<li><a href="https://www.github.com/brian8544" class="fa fa-github"></a></li>
+											<li><a href="admin/" class="fa fa-user"></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</footer>
 
 
 		<!-- jQuery -->

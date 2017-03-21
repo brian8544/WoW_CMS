@@ -4,7 +4,6 @@
 		<meta charset="utf-8">
 
 		<title>Nexus-WoW</title>
-
 <!--
 GitHub: http://github.com/brian8544/WOW_CMS
 -->
@@ -44,7 +43,6 @@ GitHub: http://github.com/brian8544/WOW_CMS
 						<li><a href="account/create/" class="smoothScroll">Create Account</a></li>
 						<li><a href="howtoconnect.php" class="smoothScroll">How To Connect</a></li>
 						<li><a href="forum/" class="smoothScroll">Forum</a></li>
-						<li><a href="#about" class="smoothScroll">About</a></li>
 						<li><a href="armory/" class="smoothScroll">Armory (Soon!)</a></li>
 						<li><a href="account/login/" class="smoothScroll">Login</a></li>
 					</ul>
@@ -62,7 +60,7 @@ GitHub: http://github.com/brian8544/WOW_CMS
 		        	<img src="images/slider/1.jpg" alt="">
 		        	<div class="slider-caption">
 					    <div class="templatemo_homewrapper">
-					      <h1 class="wow fadeInDown" data-wow-delay="2000"><b>Welcome to Nexus-WoW!</b></h1>
+					      <h1 class="wow fadeInDown" data-wow-delay="2000"><b>Welcome to xxxxxxxxxx!</b></h1>
 					      <h2 class="wow fadeInDown" data-wow-delay="2000">
 							<span>Cataclysm &AMP; Legion Private Server</span>
 						</h2>
@@ -94,7 +92,7 @@ GitHub: http://github.com/brian8544/WOW_CMS
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<h2 class="wow bounce">Latest Announcements</h2>
+						<h2 class="wow bounce">Latest Announcements</h2> <!-- Issue #1 - Insecure DB connection --->
 					</div>
 					<div class="col-md-4 col-sm-4 wow fadeIn" data-wow-delay="0.3s">
 						<img src="images/gnome_engineer.jpg" class="img-responsive" alt="team img">
@@ -255,13 +253,13 @@ GitHub: http://github.com/brian8544/WOW_CMS
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-sm-7">
-						<p>Copyright &copy; 2016-2017 <a rel="nofollow" href="http://nexus-wow.eu" target="_parent">Nexus Entertainment LLC.</a></p>
+						<p>Copyright &copy; 2016-2017 <a rel="nofollow" href="http://project-reborn.com/" target="_parent">Nexus Entertainment LLC.</a></p>
 					</div>
 					<div class="col-md-4 col-sm-5">
 						<ul class="social-icon">
-							<li><a href="#" class="fa fa-facebook"></a></li>
-							<li><a href="#" class="fa fa-twitter"></a></li>
-							<li><a href="#" class="fa fa-github"></a></li>
+							<li><a href="https://www.facebook.com/brian.oost" class="fa fa-facebook"></a></li>
+							<li><a href="https://www.twitter.com/brian8544" class="fa fa-twitter"></a></li>
+							<li><a href="https://www.github.com/brian8544" class="fa fa-github"></a></li>
 							<li><a href="admin/" class="fa fa-user"></a></li>
 						</ul>
 					</div>
