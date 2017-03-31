@@ -98,7 +98,7 @@ GitHub: http://github.com/brian8544/WOW_CMS
 						<img src="images/gnome_engineer.jpg" class="img-responsive" alt="team img">
 						<?php
 						include 'config/database.php';
-						$query = mysql_query("SELECT * FROM news WHERE `id` = '1'");
+						$query = mysql_query("SELECT * FROM news WHERE `id` = 1");
 						while($output = mysql_fetch_assoc($query))
 						{
 							echo '<h4>'.date ('d-M-Y', $output['date']).'</h4>';
@@ -113,7 +113,7 @@ GitHub: http://github.com/brian8544/WOW_CMS
 						<img src="images/gnome_engineer.jpg" class="img-responsive" alt="team img">
 						<?php
 						include 'config/database.php';
-						$query = mysql_query("SELECT * FROM news WHERE `id` = '2'");
+						$query = mysql_query("SELECT * FROM news WHERE `id` = 2");
 						while($output = mysql_fetch_assoc($query))
 						{
 							echo '<h4>'.date ('d-M-Y', $output['date']).'</h4>';
@@ -128,7 +128,7 @@ GitHub: http://github.com/brian8544/WOW_CMS
 						<img src="images/gnome_engineer.jpg" class="img-responsive" alt="team img">
 						<?php
 						include 'config/database.php';
-						$query = mysql_query("SELECT * FROM news WHERE `id` = '3'");
+						$query = mysql_query("SELECT * FROM news WHERE `id` = 3");
 						while($output = mysql_fetch_assoc($query))
 						{
 							echo '<h4>'.date ('d-M-Y', $output['date']).'</h4>';
